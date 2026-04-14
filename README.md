@@ -4,6 +4,11 @@ Memory Exhaustion DoS — Single Attacker Exhausts 4 GB RAM in ~6 Seconds
 
 ---
 
+## About the scope
+Arc is a public layer-1 blockchain designed as the Economic OS for the internet, a full-stack platform where stablecoins, tokenized assets, and global markets operate on shared, composable infrastructure. As Arc moves toward mainnet, this campaign invites the security community to take a fresh look at Arc’s newly open-sourced testnet code and node software.
+We’re looking for reproducible findings that materially impact network safety, liveness, correctness, or reliability. This is a pre-mainnet security milestone designed to broaden external scrutiny and further strengthen Arc before mainnet.
+
+
 ## Summary
 
 The `BoundedQueue` in `core-consensus` limits the number of distinct future
