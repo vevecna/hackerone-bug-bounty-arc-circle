@@ -1,6 +1,3 @@
-# hackerone-bug-bounty-arc-circle
-
-```markdown
 ## Title
 [Arc/Malachite] Unbounded Per-Height Vote Buffer Enables Unauthenticated
 Memory Exhaustion DoS — Single Attacker Exhausts 4 GB RAM in ~6 Seconds
